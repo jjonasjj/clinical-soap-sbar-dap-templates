@@ -1,0 +1,13 @@
+{
+  "name": "SoapClerk.com",
+  "homepage": "https://soapclerk.com",
+  "description": "De-identified (Zero-PHI) clinical documentation templates & shorthand expanders for Medical SOAP Notes, Nursing Shift-Change SBAR Reports, Mental Health DAP/BIRP Notes, and IEP Goals.",
+  "topics": [
+    "soap-notes",
+    "clinical-documentation",
+    "nursing-sbar",
+    "mental-health-dap",
+    "medical-scribe",
+    "healthcare-ai"
+  ]
+}
